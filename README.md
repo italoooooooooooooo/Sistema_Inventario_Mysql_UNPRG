@@ -240,3 +240,15 @@ La carpeta `database` contiene el script principal de instalación de la base de
 ```text
 database/
 └── setup.sql
+
+### ⚙️ Instalación y ejecución
+Requisitos
+JDK 8+
+MySQL 8+
+NetBeans IDE
+Pasos
+Clonar el repositorio
+Ejecutar database/setup.sql
+Configurar conexión a MySQL
+Cargar librerías desde lib/
+Ejecutar el proyecto
