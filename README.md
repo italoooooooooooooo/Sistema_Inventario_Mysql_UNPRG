@@ -1,3 +1,5 @@
+# Sistema de Inventario y Ventas con Java y MySQL
+
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/73a25fc1-f1c4-46f7-962a-35a4bd4a705e" />
 
 <img width="689" height="490" alt="image" src="https://github.com/user-attachments/assets/8e94fc89-aafb-47bb-a973-9111f4e53e23" />
