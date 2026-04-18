@@ -158,16 +158,16 @@ Una vez registrada la venta, el sistema genera automáticamente una factura en P
 
 El proyecto incluye generación de reportes en PDF con diseño visual uniforme.
 
-#### 📦 Reporte de productos
+### 📦 Reporte de productos
 <img width="903" height="571" alt="image" src="https://github.com/user-attachments/assets/e906a2c0-b09b-4a4b-ac0e-3af580803861" />
 
-#### 🗂️ Reporte de categorías
+### 🗂️ Reporte de categorías
 <img width="899" height="574" alt="image" src="https://github.com/user-attachments/assets/2b563afa-07a4-4dcf-8746-5dc3a5f8f1e9" />
 
-#### 🧾 Reporte de clientes
+### 🧾 Reporte de clientes
 <img width="905" height="538" alt="image" src="https://github.com/user-attachments/assets/21c0d8d8-ef37-4fd8-89c7-a21b4bba5f15" />
 
-#### 💰 Reporte de ventas
+### 💰 Reporte de ventas
 <img width="903" height="640" alt="image" src="https://github.com/user-attachments/assets/31c69ab3-f97c-40d0-a888-38b9dcb57f08" />
 
 ---
