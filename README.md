@@ -179,7 +179,6 @@ El proyecto incluye generación de reportes en PDF con diseño visual uniforme.
 - 🛢️ **MySQL**
 - 🔌 **JDBC**
 - 📄 **OpenPDF**
-- 🧩 **Gson**
 - 🏗️ **Apache Ant**
 - 💻 **NetBeans IDE**
 
