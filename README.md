@@ -239,8 +239,7 @@ La carpeta `database` contiene el script principal de instalación de la base de
 
 ```text
 database/
-└── setup.sql``` 
-
+└── `setup.sql`
 ---
 
 ### ⚙️ Instalación y ejecución
