@@ -1,0 +1,11 @@
+build/
+dist/
+Reportes/
+Facturas/
+
+*.class
+*.log
+
+nbproject/private/
+
+config.properties
