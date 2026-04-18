@@ -10,7 +10,7 @@
 
 <img width="588" height="513" alt="image" src="https://github.com/user-attachments/assets/88791c08-5e32-4150-8db2-532b314adf91" />
 
-<img width="591" height="491" alt="image" src="https://github.com/user-attachments/assets/3242dfc9-1202-464e-bf5b-f73df6da8efc" />
+<img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/ec155d82-fe2e-4432-bafa-c55465f14937" />
 
 <img width="578" height="370" alt="image" src="https://github.com/user-attachments/assets/5a9be3d8-241a-4b48-8fc5-687cbd115477" />
 
