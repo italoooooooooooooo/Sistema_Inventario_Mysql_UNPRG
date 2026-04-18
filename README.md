@@ -2,6 +2,7 @@
 
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/73a25fc1-f1c4-46f7-962a-35a4bd4a705e" />
 
+
 Sistema de escritorio desarrollado en **Java Swing** con persistencia en **MySQL**, orientado a la gestión de inventario, clientes, usuarios y ventas en un pequeño negocio o minimarket.  
 El sistema permite administrar productos por categorías, controlar stock, registrar ventas, generar facturas en PDF y emitir reportes.
 
