@@ -123,7 +123,7 @@ El proyecto incluye generación de reportes en PDF con diseño visual uniforme.
 <img width="899" height="574" alt="image" src="https://github.com/user-attachments/assets/2b563afa-07a4-4dcf-8746-5dc3a5f8f1e9" />
 
 ### Reporte de clientes
-<img width="908" height="542" alt="image" src="https://github.com/user-attachments/assets/2aadf085-11ea-40fb-9358-336a2b4bbb07" />
+<img width="905" height="538" alt="image" src="https://github.com/user-attachments/assets/21c0d8d8-ef37-4fd8-89c7-a21b4bba5f15" />
 
 ### Reporte de ventas
 <img width="903" height="640" alt="image" src="https://github.com/user-attachments/assets/31c69ab3-f97c-40d0-a888-38b9dcb57f08" />
