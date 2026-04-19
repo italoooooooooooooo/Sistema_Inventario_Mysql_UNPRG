@@ -249,4 +249,3 @@ database/
 
 - JDK 8+
 - MySQL 8+
-- NetBeans IDE
