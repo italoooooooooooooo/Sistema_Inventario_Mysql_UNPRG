@@ -233,7 +233,6 @@ La persistencia del sistema se encuentra implementada en **MySQL**, permitiendo 
 - 🛒 Un pedido tiene múltiples ítems en `detalle_pedido`
 - 📦 Cada ítem está asociado a un producto
 
-
 ### Script SQL
 
 La carpeta `database` contiene el script principal de instalación de la base de datos:
@@ -241,11 +240,13 @@ La carpeta `database` contiene el script principal de instalación de la base de
 ```text
 database/
 └── setup.sql
-
-⚙️ Instalación y ejecución
-Requisitos
-JDK 8+
-MySQL 8+
-NetBeans IDE
-
+```
 ---
+
+### ⚙️ Instalación y ejecución
+
+#### Requisitos
+
+- JDK 8+
+- MySQL 8+
+- NetBeans IDE
