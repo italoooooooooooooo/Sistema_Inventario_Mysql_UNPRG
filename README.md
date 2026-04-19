@@ -241,12 +241,11 @@ La carpeta `database` contiene el script principal de instalación de la base de
 ```text
 database/
 └── setup.sql
----
 
-### ⚙️ Instalación y ejecución
-
+⚙️ Instalación y ejecución
 Requisitos
 JDK 8+
 MySQL 8+
 NetBeans IDE
+
 ---
