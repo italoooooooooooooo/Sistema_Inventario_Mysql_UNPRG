@@ -3,9 +3,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-Database-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenPDF-PDF-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Ant-Build-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge"/>
 </p>
 
