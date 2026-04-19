@@ -1,5 +1,5 @@
 # 📋🛒 Sistema de Inventario y Ventas con Java y MySQL
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge"/>
