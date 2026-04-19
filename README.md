@@ -31,7 +31,7 @@ El sistema permite administrar productos por categorías, controlar stock, regis
 El sistema inicia con una pantalla de autenticación que permite ingresar mediante usuario o correo electrónico.  
 Esta capa valida las credenciales registradas en la base de datos y restringe el acceso al sistema.
 
-align="center"><img width="689" height="490" alt="image" src="https://github.com/user-attachments/assets/8e94fc89-aafb-47bb-a973-9111f4e53e23" /></p>
+<img width="689" height="490" alt="image" src="https://github.com/user-attachments/assets/8e94fc89-aafb-47bb-a973-9111f4e53e23" />
 ---
 
 ### 2. 🏠 Menú principal
